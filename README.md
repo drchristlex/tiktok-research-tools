@@ -26,7 +26,7 @@ This tool requires an approved TikTok Research API account. Access is available 
 
 ### Software Requirements
 
-- Python 3.12 or higher
+- Python 3.8 or higher (Python 3.12 or newer is recommended)
 - The following Python packages: `streamlit`, `requests`
 
 Install dependencies with:
