@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# TikTok Research Tools — project specific
+tiktok_presets.json
+tiktok_groups.json
+tiktok_thumbnail_cache.json
+tiktok_flagged_accounts.json
+*.csv
+*.txt
+skipped.txt
