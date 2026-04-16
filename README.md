@@ -2,7 +2,7 @@
 
 **A simple but powerful tool for collecting TikTok data for academic research, no coding required.**
 
-This tool provides a browser-based interface for the [TikTok Research API](https://developers.tiktok.com/products/research-api/), making it straightforward to build systematic datasets from TikTok without needing to write any code. It was developed as part of the **Influencer Stories** project at the University of Birmingham by **Dr Alex Christiansen**.
+This tool provides a browser-based interface for the [TikTok Research API](https://developers.tiktok.com/products/research-api/), making it straightforward to build systematic datasets from TikTok without needing to write any code. It was developed as part of the [Influencer Stories](https://influencerstories.bham.ac.uk/) project at the University of Birmingham by **Dr Alex Christiansen**.
 
 An earlier, more limited version of the data collection approach implemented here was used in:
 
