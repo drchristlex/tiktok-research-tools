@@ -140,11 +140,11 @@ All data collected by this tool is saved locally to your own computer. Nothing i
 
 ## Known Limitations
 
-- **Metadata only**: the API provides video metadata but not video files or audio. The voice-to-text transcription field provides a text version of spoken content where available
-- **Engagement metric discrepancies**: figures for views, likes and other metrics may differ from what is shown on the TikTok platform, as the API uses archived data. See [Pearson et al. (2024)](https://doi.org/10.1080/1369118X.2024.2420032) for a detailed audit of these discrepancies
-- **Indexing delay**: new videos can take up to 48 hours to appear in API results, which limits applicability for real-time data collection
-- **Unavailable accounts**: some accounts may return errors even when publicly visible. The tool identifies these automatically and continues collecting from the remaining accounts
-- **TikTok Shop**: shop data is only available for shops operating in the EU
+- **Metadata only**: the API provides video metadata but not video files or audio. The voice-to-text transcription field provides a text version of spoken content where available. I am well aware that there are ways to get around this, but those would break the TikTok ToS.
+- **Engagement metric discrepancies**: figures for views, likes and other metrics may differ from what is shown on the TikTok platform, as the API uses archived data. See [Pearson et al. (2024)](https://doi.org/10.1080/1369118X.2024.2420032) for a detailed audit of these discrepancies.
+- **Indexing delay**: new videos can take up to 48 hours to appear in API results, which limits applicability for real-time data collection.
+- **Unavailable accounts**: some accounts may return errors even when publicly visible. The tool identifies these automatically and continues collecting from the remaining accounts.
+- **TikTok Shop**: shop data is only available for shops operating in the EU.
 
 ---
 ## Citing This Tool
