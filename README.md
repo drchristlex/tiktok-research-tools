@@ -151,7 +151,7 @@ All data collected by this tool is saved locally to your own computer. Nothing i
 
 If you use this tool in your research, please cite it as:
 
-> Christiansen, A. (2025). *TikTok Research Tools* [Software]. University of Birmingham. https://github.com/drchristlex/tiktok-research-tools
+> Christiansen, A. (2026). TikTok Research Tools [Software]. University of Birmingham. https://doi.org/10.5281/zenodo.19606638
 
 A methods paper describing the account-centric corpus construction approach this tool supports is currently in preparation. A citation will be added here on publication.
 
