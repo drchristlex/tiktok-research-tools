@@ -24,7 +24,8 @@ If you are on a Windows computer, getting started takes four steps:
 
 **Step 1: Install Python**
 
-Python is the programming language this tool runs on. If you do not already have it, download and install it from [python.org](https://www.python.org/downloads/). During installation, make sure to tick the box that says **"Add Python to PATH"** before clicking Install.
+Python is the programming language this tool runs on. If you do not already have it, download and install it from [python.org](https://www.python.org/downloads/). Python 3.8 or higher is required, but any stable release should work.
+During installation, make sure to tick the box that says **"Add Python to PATH"** before clicking Install.
 
 **Step 2: Download this tool**
 
@@ -46,7 +47,7 @@ You are now ready to collect data!
 
 **Step 1: Install Python**
 
-Download and install Python from [python.org](https://www.python.org/downloads/) if you do not already have it. Python 3.8 or higher is required.
+Download and install Python from [python.org](https://www.python.org/downloads/) if you do not already have it. Python 3.8 or higher is required, but any stable release should work.
 
 **Step 2: Download this tool**
 
